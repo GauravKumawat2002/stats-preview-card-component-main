@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://gauravkumawat2002.github.io/stats-preview-card-component-main/)
+- Live Site URL: [https://gauravkumawat2002.github.io/stats-preview-card-component-main/](https://gauravkumawat2002.github.io/stats-preview-card-component-main/)
 
 ## My process
 
