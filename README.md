@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://gauravkumawat2002.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -88,4 +88,4 @@ I'm further looking to sharpen my skills in making responsive layouts, writing e
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yGauravKumawat2002](https://www.frontendmentor.io/profile/GauravKumawat2002)
